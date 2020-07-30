@@ -17,7 +17,7 @@
 PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/A6020/pa_A6020.mk \
     $(LOCAL_DIR)/angler/pa_angler.mk \
-    $(LOCAL_DIR)/begonia/pa_begonia.mk \
+    $(LOCAL_DIR)/CPH1859/pa_CPH1859.mk \
     $(LOCAL_DIR)/beryllium/pa_beryllium.mk \
     $(LOCAL_DIR)/cepheus/pa_cepheus.mk \
     $(LOCAL_DIR)/chiron/pa_chiron.mk \
@@ -52,7 +52,7 @@ PRODUCT_MAKEFILES += \
 COMMON_LUNCH_CHOICES += \
     pa_A6020-userdebug \
     pa_angler-userdebug \
-    pa_begonia-userdebug \
+    pa_CPH1859-userdebug \
     pa_beryllium-userdebug \
     pa_cepheus-userdebug \
     pa_chiron-userdebug \
